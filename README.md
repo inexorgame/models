@@ -1,2 +1,2 @@
-# models
-A self made set of models.
+# textures
+A self made set of models and textures.
