@@ -1,0 +1,106 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.0.5",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cylinder",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cylinder",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 14212,
+            "max" : [
+                1.1261959075927734,
+                20.754392623901367,
+                2.5085294246673584
+            ],
+            "min" : [
+                -1.1796460151672363,
+                -5.966930866241455,
+                -1.065600872039795
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 14212,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 14212,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 23304,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 170544,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 170544,
+            "byteOffset" : 170544
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 113696,
+            "byteOffset" : 341088
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 46608,
+            "byteOffset" : 454784
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 501392,
+            "uri" : "wep-s.bin"
+        }
+    ]
+}
