@@ -1,0 +1,201 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.0.5",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cylinder",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Cylinder.001",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "None",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.2546440064907074
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cylinder",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 58064,
+            "max" : [
+                1.1093385219573975,
+                1.1241717338562012,
+                1
+            ],
+            "min" : [
+                -1.128377079963684,
+                -1.1140339374542236,
+                -1
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 58064,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 58064,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 93300,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 19224,
+            "max" : [
+                0.8582888841629028,
+                0.9107482433319092,
+                0.12872526049613953
+            ],
+            "min" : [
+                -0.8980651497840881,
+                -0.8202618360519409,
+                -1.082842230796814
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 19224,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 19224,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 33336,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 696768,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 696768,
+            "byteOffset" : 696768
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 464512,
+            "byteOffset" : 1393536
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 186600,
+            "byteOffset" : 1858048
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 230688,
+            "byteOffset" : 2044648
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 230688,
+            "byteOffset" : 2275336
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 153792,
+            "byteOffset" : 2506024
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 66672,
+            "byteOffset" : 2659816
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 2726488,
+            "uri" : "wep-sa.bin"
+        }
+    ]
+}
