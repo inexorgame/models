@@ -66,11 +66,11 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 19050,
+            "count" : 19754,
             "max" : [
                 3.8732781410217285,
                 3.6774284839630127,
-                14.003418922424316
+                14.247631072998047
             ],
             "min" : [
                 -2.3179101943969727,
@@ -82,19 +82,19 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 19050,
+            "count" : 19754,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 19050,
+            "count" : 19754,
             "type" : "VEC2"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 31488,
+            "count" : 32628,
             "type" : "SCALAR"
         },
         {
@@ -135,48 +135,48 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 228600,
+            "byteLength" : 237048,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 228600,
-            "byteOffset" : 228600
+            "byteLength" : 237048,
+            "byteOffset" : 237048
         },
         {
             "buffer" : 0,
-            "byteLength" : 152400,
-            "byteOffset" : 457200
+            "byteLength" : 158032,
+            "byteOffset" : 474096
         },
         {
             "buffer" : 0,
-            "byteLength" : 62976,
-            "byteOffset" : 609600
-        },
-        {
-            "buffer" : 0,
-            "byteLength" : 141120,
-            "byteOffset" : 672576
+            "byteLength" : 65256,
+            "byteOffset" : 632128
         },
         {
             "buffer" : 0,
             "byteLength" : 141120,
-            "byteOffset" : 813696
+            "byteOffset" : 697384
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 141120,
+            "byteOffset" : 838504
         },
         {
             "buffer" : 0,
             "byteLength" : 94080,
-            "byteOffset" : 954816
+            "byteOffset" : 979624
         },
         {
             "buffer" : 0,
             "byteLength" : 23976,
-            "byteOffset" : 1048896
+            "byteOffset" : 1073704
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 1072872,
+            "byteLength" : 1097680,
             "uri" : "uber machinegun.bin"
         }
     ]
