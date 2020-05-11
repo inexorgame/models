@@ -37,7 +37,7 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 32001,
+            "count" : 32005,
             "max" : [
                 2.455430507659912,
                 1.4247710704803467,
@@ -53,13 +53,13 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 32001,
+            "count" : 32005,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 32001,
+            "count" : 32005,
             "type" : "VEC2"
         },
         {
@@ -72,28 +72,28 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 384012,
+            "byteLength" : 384060,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 384012,
-            "byteOffset" : 384012
+            "byteLength" : 384060,
+            "byteOffset" : 384060
         },
         {
             "buffer" : 0,
-            "byteLength" : 256008,
-            "byteOffset" : 768024
+            "byteLength" : 256040,
+            "byteOffset" : 768120
         },
         {
             "buffer" : 0,
             "byteLength" : 99072,
-            "byteOffset" : 1024032
+            "byteOffset" : 1024160
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 1123104,
+            "byteLength" : 1123232,
             "uri" : "2109mech.bin"
         }
     ]
