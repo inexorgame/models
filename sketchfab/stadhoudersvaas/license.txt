@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stadhoudersvaas
+* source:	https://sketchfab.com/3d-models/stadhoudersvaas-a08b7a4c44f14553bf8f5992873bc2ae
+* author:	The National Museum of Antiquities (https://sketchfab.com/rmo_leiden)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stadhoudersvaas" (https://sketchfab.com/3d-models/stadhoudersvaas-a08b7a4c44f14553bf8f5992873bc2ae) by The National Museum of Antiquities (https://sketchfab.com/rmo_leiden) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
