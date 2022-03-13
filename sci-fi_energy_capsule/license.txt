@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-fi Energy Capsule
+* source:	https://sketchfab.com/3d-models/sci-fi-energy-capsule-20b23d4a703e4f7ebfb105b6b140b6fe
+* author:	Jorgeart.Games (https://sketchfab.com/Jorgeart.Games)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-fi Energy Capsule" (https://sketchfab.com/3d-models/sci-fi-energy-capsule-20b23d4a703e4f7ebfb105b6b140b6fe) by Jorgeart.Games (https://sketchfab.com/Jorgeart.Games) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

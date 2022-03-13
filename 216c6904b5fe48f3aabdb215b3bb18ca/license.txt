@@ -1,0 +1,11 @@
+Model Information:
+* title:	【练习】胶囊舱（space capsule）
+* source:	https://sketchfab.com/3d-models/space-capsule-216c6904b5fe48f3aabdb215b3bb18ca
+* author:	律と青い鳥 (https://sketchfab.com/584670831)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "【练习】胶囊舱（space capsule）" (https://sketchfab.com/3d-models/space-capsule-216c6904b5fe48f3aabdb215b3bb18ca) by 律と青い鳥 (https://sketchfab.com/584670831) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
