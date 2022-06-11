@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nuka Cola Vending Machine
+* source:	https://sketchfab.com/3d-models/nuka-cola-vending-machine-d67e3f3d1bdd4a4e8b63c489cd55a5fc
+* author:	gunduzhan (https://sketchfab.com/gunduzhan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nuka Cola Vending Machine" (https://sketchfab.com/3d-models/nuka-cola-vending-machine-d67e3f3d1bdd4a4e8b63c489cd55a5fc) by gunduzhan (https://sketchfab.com/gunduzhan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

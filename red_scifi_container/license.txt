@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Scifi Container
+* source:	https://sketchfab.com/3d-models/red-scifi-container-40c29188e52b411bad05156e6d1d3a09
+* author:	firehawksoftware (https://sketchfab.com/firehawk77028)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Scifi Container" (https://sketchfab.com/3d-models/red-scifi-container-40c29188e52b411bad05156e6d1d3a09) by firehawksoftware (https://sketchfab.com/firehawk77028) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
